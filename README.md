@@ -1,8 +1,13 @@
 •⁠  ⁠👋 Hi, I’m Akanchha Rani
+
 •⁠  ⁠🤝 A Web Developer(MERN) 
+
 •⁠  ⁠👀 I’m interested in MERN, UI/UX.
+
 •⁠  ⁠🌱 I’m currently learning AI/ML ...
+
 •⁠  ⁠📫 How to reach me : raniakanchha45@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akanchha-rani-ab833a288)
