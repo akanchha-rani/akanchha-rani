@@ -1,12 +1,15 @@
-•⁠  ⁠👋 Hi, I’m Akanchha Rani
+👋 Hi, I’m Akanchha Rani
 
-•⁠  ⁠🤝 A Full-Stack Developer(MERN).
+🚀 I’m a Full-Stack Developer (MERN Stack) passionate about building responsive, scalable, and user-friendly web applications.
 
-•⁠  ⁠👀 I’m interested in MERN, UI/UX.
+👀 My interests include MERN development, UI/UX design, and creating clean, intuitive user experiences.
 
-•⁠  ⁠🌱 I’m currently learning AI/ML ...
+🌱 Currently, I’m learning AI/ML and exploring how intelligent systems can be integrated into modern web applications.
 
-•⁠  ⁠📫 How to reach me : raniakanchha45@gmail.com
+💡 I enjoy turning ideas into real-world products and continuously improving my skills by building projects and learning new technologies.
+
+📫 Let’s connect and collaborate on exciting projects!
+     ⁠📫 How to reach me : raniakanchha45@gmail.com
 
 
 ## 🌐 Socials:
