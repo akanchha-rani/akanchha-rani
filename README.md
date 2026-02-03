@@ -9,7 +9,7 @@
 💡 I enjoy turning ideas into real-world products and continuously improving my skills by building projects and learning new technologies.
 
 📫 Let’s connect and collaborate on exciting projects!
-     ⁠📫 How to reach me : raniakanchha45@gmail.com
+     ⁠ How to reach me : raniakanchha45@gmail.com
 
 
 ## 🌐 Socials:
