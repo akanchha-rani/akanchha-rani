@@ -1,6 +1,6 @@
 👋 Hi, I’m Akanchha Rani
 
-Portfolio: [http://akanchha-rani-portfolio.netlify.app]
+🌐 Portfolio: [http://akanchha-rani-portfolio.netlify.app]
 
 🚀 I’m a Full-Stack Developer (MERN Stack) passionate about building responsive, scalable, and user-friendly web applications.
 
