@@ -1,53 +1,145 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=akanchha rani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building things on the internet&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+akanchha rani+👋;Full-stack developer;Building things on the internet" alt="Typing SVG"/>
-</div>
+# Akanchha Rani
 
-## 🤝 Connect with me
+> AI/ML Engineer | Full-Stack Developer | Building intelligent products & solving real-world problems 🤖🚀
+
+## Header
+
+Hi, I'm **Akanchha Rani** (@akanchha-rani). I build AI-powered applications, full-stack products, and solve problems with data structures and algorithms.
 
 <p align="center">
-    
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akanchha-rani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanchha-rani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](http://akanchha-rani-portfolio.netlify.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/akanchha-rani/)
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=akanchha-rani&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=akanchha-rani&theme=github-dark&style=terminal" alt="Akanchha Rani hero section" />
+  </picture>
 </p>
 
-## 🛠 Tech Stack
+## About Me
+
+Computer Science Engineer focused on **AI/ML, NLP, LLM applications, Full-Stack Development, and DSA**.
+
+I'm interested in turning ideas into real products — from designing the architecture and building APIs to developing intelligent features and shipping polished applications.
+
+- 🤖 Exploring **AI/ML, NLP & LLMs**
+- 💻 Building with **React, Next.js, Node.js & Python**
+- 🧩 Strengthening **DSA & problem solving**
+- 🚀 Building AI-powered and full-stack products
+- 🌱 Open to learning, collaborating and building impactful software
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=C++,Python,JavaScript,HTML5,CSS3,TailwindCSS,TypeScript,Node.js,Express.js,React.js,Next.js&perline=8" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=akanchha-rani&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=akanchha-rani&theme=github-dark&style=terminal" alt="Akanchha Rani about section" />
+  </picture>
 </p>
 
-## 📊 GitHub Stats
+## Skills
+
+**Languages & Frameworks:** C++, Python, JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, HTML5, CSS3, Tailwind CSS.
+
+**AI / ML:** Machine Learning, NLP, LLM Applications, scikit-learn, Pandas, NumPy.
+
+**Databases:** MongoDB, MySQL.
+
+**Tools & Platforms:** Git, GitHub, Postman, Google Colab, VS Code, AWS, Docker.
 
 <p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=akanchha-rani&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=akanchha-rani&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=akanchha-rani&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=akanchha-rani&theme=github-dark&style=terminal" alt="Akanchha Rani stack section" />
+  </picture>
 </p>
 
-## 💡 Top Languages
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=akanchha-rani&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=akanchha-rani&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=akanchha-rani&theme=github-dark&style=terminal" alt="Akanchha Rani stats section" />
+  </picture>
 </p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+## Projects
 
-## 🛠️ Skills
+Building projects across **AI/ML, Full-Stack Development, and intelligent applications**.
 
-![C++](https://img.shields.io/badge/-C%2B%2B-6E40C9?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-6E40C9?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-6E40C9?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-6E40C9?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-6E40C9?style=for-the-badge&logo=expressjs&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-6E40C9?style=for-the-badge&logo=reactjs&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Git](https://img.shields.io/badge/-Git-6E40C9?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white) ![PostMan](https://img.shields.io/badge/-PostMan-6E40C9?style=for-the-badge&logo=postman&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-6E40C9?style=for-the-badge&logo=googlecolab&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-6E40C9?style=for-the-badge&logo=vscode&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-6E40C9?style=for-the-badge&logo=mysql&logoColor=white)
+### 🤖 Skynet AI
+LLM-powered intelligent search and AI assistant.
 
-## 📈 LeetCode Stats
+**Tech:** Node.js · Express.js · MongoDB · LLM APIs
+
+### 🧭 TripMate
+AI-powered travel planner and memory platform.
+
+**Tech:** Next.js · TypeScript · Node.js · Express.js · MongoDB
+
+### 🧬 Breast Cancer Detection
+Machine learning classification system achieving **95.8% reported accuracy**.
+
+**Tech:** Python · Pandas · NumPy · scikit-learn
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/%20https%3A%2F%2Fleetcode.com%2Fu%2Fakanchha-rani%2F?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=akanchha-rani&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=akanchha-rani&theme=github-dark&style=terminal" alt="Akanchha Rani projects section" />
+  </picture>
 </p>
 
-## 🐍 Contribution Snake
+## Heatmap
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akanchha-rani/akanchha-rani/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=akanchha-rani&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=akanchha-rani&theme=github-dark&style=terminal" alt="Akanchha Rani contribution heatmap" />
+  </picture>
+</p>
+
+## Experience
+
+### AI/ML Intern — AICTE
+
+Worked with Python, Pandas, NumPy and scikit-learn on data preprocessing, ML experimentation and validation workflows.
+
+### Full-Stack Developer Intern — Snappikart Techlabs
+
+Built responsive React interfaces, reusable components and REST API integrations using the MERN stack.
+
+## Achievements
+
+- ⭐ GSSoC 2024 Extended Contributor
+- 🎓 Selected for UC Berkeley International Study Program
+- 🧠 NPTEL Star Category — Discipline & Enthusiast
+- 💻 Participated in Smart India Hackathon, Code'N'Clone & Code for Bharat
+- 🧩 300+ DSA problems solved across coding platforms
+
+## Connect
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=akanchha-rani&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=akanchha-rani&theme=github-dark&style=terminal" alt="Akanchha Rani social section" />
+  </picture>
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akanchha-rani/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akanchha-rani">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### `BUILD • LEARN • SOLVE • SHIP 🚀`
+
 </p>
