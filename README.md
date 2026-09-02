@@ -1,8 +1,7 @@
-## Data lab notebook
 
 <div align="center">
 
-# akanchha rani
+# Akanchha Rani
 
 > Frontend or full-stack engineer
 
@@ -12,6 +11,88 @@
 
 </div>
 
+## About
+
+<details open>
+<summary><b>about.me</b></summary>
+
+```yaml
+name: Akanchha Rani
+role: Software Engineer
+specialization: AI/ML
+
+focus:
+  - Full-Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Intelligent Systems
+
+currently:
+  - Building scalable web applications
+  - Exploring LLM-powered applications
+  - Learning NLP & GraphRAG
+  - Strengthening problem-solving skills
+
+mindset:
+  - Build
+  - Learn
+  - Solve
+  - Improve
+```
+
+</details>
+
+
+## Methods and tools
+
+<details open>
+<summary><b>toolkit.stack</b></summary>
+
+```yaml
+languages:
+  - C++
+  - Python
+  - JavaScript
+  - TypeScript
+
+frontend:
+  - React.js
+  - Next.js
+  - HTML5
+  - CSS3
+  - Tailwind CSS
+
+backend:
+  - Node.js
+  - Express.js
+  - REST APIs
+  - API Design
+
+databases:
+  - MongoDB
+  - MySQL
+
+ai_ml:
+  - scikit-learn
+  - Pandas
+  - NumPy
+  - LLM APIs
+  - GraphRAG
+  - Prompt Engineering
+
+tools:
+  - Git
+  - GitHub
+  - Postman
+  - Agile
+  - SDLC
+  - Code Reviews
+  - Debugging
+```
+
+</details>
+
+
 ## Evidence
 
 <p align="center">
@@ -19,40 +100,6 @@
 </p>
 
 <p><code>582 contributions</code> · <code>1 day streak</code></p>
-
-## Methods and tools
-
-- **Python** · 92%
-- **Cython** · 3%
-- **JavaScript** · 1%
-- **Jupyter Notebook** · 1%
-- **C++** · 1%
-- **C** · 1%
-- **CSS** · 0%
-- **HTML** · 0%
-
-## Research notes
-
-<details open>
-<summary><b>profile.manifest</b></summary>
-
-```yaml
-name: akanchha rani
-focus: public experiments
-languages: [Python, Cython, JavaScript, Jupyter Notebook, C++]
-repositories: 26
-```
-
-</details>
-
-## Experiments
-
-- **[NeuraFlow](https://github.com/akanchha-rani/NeuraFlow)** — Featured public work · ⭐ 1
-- **[FinSight-Finance-Dashboard](https://github.com/akanchha-rani/FinSight-Finance-Dashboard)** — Finance tracker using react.js and node.js · ⭐ 1
-- **[context-graph-system-with-an-LLM-powered-query-interface](https://github.com/akanchha-rani/context-graph-system-with-an-LLM-powered-query-interface)** — context-graph-system-with-an-LLM-powered-query-interface · ⭐ 1
-- **[Akanchha_Portfolio](https://github.com/akanchha-rani/Akanchha_Portfolio)** — My portfolio · ⭐ 1
-- **[Curovia](https://github.com/akanchha-rani/Curovia)** — Curovia – “Your journey to care” (cura = care, via = path) · ⭐ 1
-- **[TripMate-AI](https://github.com/akanchha-rani/TripMate-AI)** — TripMate-AI using Next.js  · ⭐ 1
 
 ## Findings
 
