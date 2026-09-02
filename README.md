@@ -3,7 +3,7 @@
 
 # Akanchha Rani
 
-> Frontend or full-stack engineer
+>  Software Engineer · Full-Stack · AI/ML
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=akanchha-rani&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159878513%3Fu%3D062df2df6c7b55ad71bf35b4bf4d955bea8eb256%26v%3D4" alt="akanchha-rani hero visual" />
