@@ -1,120 +1,72 @@
+<div align="center">
+  <img src="https://githance.in/api/render?type=header&variant=spotlight&v=rect-v4&name=Akanchha+Rani&subtitle=AI%2FML+Engineer+%7C+Full-Stack+Developer+&theme=aurora&a=Software+Engineer&a=Open+Source&a=Design+Systems" alt="Custom header" />
+</div>
+
+
+<h1 style="text-align: center;">About Me</h1><p>
+</p><p>💻 Full-Stack Development with React.js, Next.js, Node.js and Express.js</p><p>🤖 AI/ML with scikit-learn, Pandas, NumPy and LLM APIs&nbsp;</p><p>🧠 Interested in GraphRAG, Prompt Engineering and intelligent applications&nbsp;</p><p>🧩 Strong foundation in DSA, OOP, DBMS, Operating Systems and Computer Networks&nbsp;</p><p>🛠️ Comfortable with REST APIs, Git/GitHub, Postman and Agile/SDLC workflows&nbsp;</p><p>🌱 Continuously learning and improving my software engineering skills</p>
 
 <div align="center">
 
-# Akanchha Rani
-
->  Software Engineer · Full-Stack · AI/ML
+### Languages:
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=akanchha-rani&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159878513%3Fu%3D062df2df6c7b55ad71bf35b4bf4d955bea8eb256%26v%3D4" alt="akanchha-rani hero visual" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
+### Libraries & Frameworks:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Tools & Platforms:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Databases:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
 </div>
 
-## About
-
-<details open>
-<summary><b>about.me</b></summary>
-
-```yaml
-name: Akanchha Rani
-role: Software Engineer
-specialization: AI/ML
-
-focus:
-  - Full-Stack Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Intelligent Systems
-
-currently:
-  - Building scalable web applications
-  - Exploring LLM-powered applications
-  - Learning NLP & GraphRAG
-  - Strengthening problem-solving skills
-
-mindset:
-  - Build
-  - Learn
-  - Solve
-  - Improve
-```
-
-</details>
-
-
-## Methods and tools
-
-<details open>
-<summary><b>toolkit.stack</b></summary>
-
-```yaml
-languages:
-  - C++
-  - Python
-  - JavaScript
-  - TypeScript
-
-frontend:
-  - React.js
-  - Next.js
-  - HTML5
-  - CSS3
-  - Tailwind CSS
-
-backend:
-  - Node.js
-  - Express.js
-  - REST APIs
-  - API Design
-
-databases:
-  - MongoDB
-  - MySQL
-
-ai_ml:
-  - scikit-learn
-  - Pandas
-  - NumPy
-  - LLM APIs
-  - GraphRAG
-  - Prompt Engineering
-
-tools:
-  - Git
-  - GitHub
-  - Postman
-  - Agile
-  - SDLC
-  - Code Reviews
-  - Debugging
-```
-
-</details>
-
-
-## Evidence
+<div align="center">
+## Find Me Online
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=akanchha-rani&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159878513%3Fu%3D062df2df6c7b55ad71bf35b4bf4d955bea8eb256%26v%3D4" alt="akanchha-rani stats visual" />
+  <a href="https://github.com/akanchha-rani"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="34" height="34" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akanchha-rani/"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" /></a>
 </p>
+</div>
 
-<p><code>582 contributions</code> · <code>1 day streak</code></p>
-
-## Findings
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=akanchha-rani&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159878513%3Fu%3D062df2df6c7b55ad71bf35b4bf4d955bea8eb256%26v%3D4" alt="akanchha-rani highlights visual" />
+  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=neon&v=rect-v4&user=akanchha-rani&range=yearly&layers=%5B%7B%22id%22%3A%22sticker-layer-1788283161963-219168%22%2C%22stickerId%22%3A%22tortoise%22%2C%22x%22%3A0.8715268342391305%2C%22y%22%3A0.27098671690278925%2C%22sizePx%22%3A106%2C%22rotation%22%3A0%7D%5D" alt="Contribution graph" />
 </p>
 
-<p><b>akanchha rani</b> is shipping 26 public projects with 26 stars of proof.</p>
-
-## Compare notes
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=akanchha-rani&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159878513%3Fu%3D062df2df6c7b55ad71bf35b4bf4d955bea8eb256%26v%3D4" alt="akanchha-rani social visual" />
+  <img src="https://githance.in/api/render?type=footer&banner_id=banner-1&w=1600&h=240" alt="Footer banner 01" width="800" />
 </p>
-
-<a href="https://github.com/akanchha-rani">GitHub</a> · <a href="http://akanchha-rani-portfolio.netlify.app">Website</a>
-
-<p align="center"><sub>akanchha rani · Data profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
